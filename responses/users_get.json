@@ -1,0 +1,13 @@
+{
+  "count": 2,
+  "users": [
+    {
+      "name": "juan perez",
+      "email": "juan@perez.fake"
+    },
+    {
+      "name": "ana juarez",
+      "email": "ana@juarez.fake"
+    }    
+  ]
+}
