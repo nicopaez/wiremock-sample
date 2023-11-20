@@ -1,0 +1,4 @@
+.secrets
+.gitsecret/keys/random_seed
+!*.secret
+.byebug_history
