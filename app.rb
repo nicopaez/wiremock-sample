@@ -1,10 +1,10 @@
 require 'faraday'
+require 'json'
 
 class App
 
   def initialize(api_url='https://api.openweathermap.org')
     @api_url = api_url
-    debugger
   end
 
   def get_temperatura
